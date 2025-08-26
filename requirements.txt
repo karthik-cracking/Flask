@@ -2,4 +2,3 @@ discord.py
 flask
 gunicorn
 dotenv
-sqlite3
